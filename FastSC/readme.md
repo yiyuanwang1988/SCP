@@ -31,7 +31,7 @@ The above parameters are explained as follows:
 -   instance: path of the input graph.
 -   time: time limit (seconds).
 -   seed: random seed.
--   is_AC: Whether the instance is Academic (1) or not (0). If is_AC = 1, subset costs are generated as (i+1) % 200 + 1.
+-   is_AC: Whether the instance is Academic (1) or not (0). If is_AC = 1, subset costs are generated as (i+1) % 200 + 1,  where i is the subset index.
 -   use_cplex: Whether to use CPLEX (1) or not (0).
 
 
