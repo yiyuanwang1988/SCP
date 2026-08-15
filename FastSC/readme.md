@@ -25,7 +25,7 @@ make
 
 To execute the code, use the following command format:
 ```
-./FastSC <instance> <time> <seed> <is_AC> [use_cplex]
+./FastSC <instance> <time> <seed> <is_AC> <use_cplex>
 ```
 The above parameters are explained as follows:
 -   instance: path of the input graph.
